@@ -1,4 +1,4 @@
-name: .NET
+name: NTFY.AutoRater
 
 on:
   schedule:
@@ -16,5 +16,5 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 5.0.x
-    - name: Restore dependencies
-      run: cd bin && dotnet NTFY.AutoRater ${{ secrets.PASSWORD }} ${{ secrets.LOGIN }}
+    - name: Run rater
+      run: cd bin && dotnet NTFY.AutoRater.dll ${{ secrets.PASSWORD }} ${{ secrets.LOGIN }}
