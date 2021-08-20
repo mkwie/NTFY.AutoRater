@@ -13,3 +13,6 @@ C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\NTFY.AutoRater.dll
 C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\ref\NTFY.AutoRater.dll
 C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\NTFY.AutoRater.pdb
 C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\NTFY.AutoRater.genruntimeconfig.cache
+C:\workspace\AutoRater\src\NTFY.AutoRater\bin\Release\net5.0\TimeZoneConverter.dll
+C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\NTFY.AutoRater.csproj.AssemblyReference.cache
+C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\NTFY.AutoRater.csproj.CopyComplete

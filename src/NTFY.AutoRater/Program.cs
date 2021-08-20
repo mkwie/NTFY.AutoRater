@@ -3,6 +3,7 @@ using System;
 using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
+using TimeZoneConverter;
 
 namespace NTFY.AutoRater
 {
@@ -23,7 +24,7 @@ namespace NTFY.AutoRater
 
             var dietHistory = await client.FetchHistory();
 
-            var timeZone = TimeZoneInfo.FindSystemTimeZoneById("Central European Standard Time");
+            var timeZone = TZConvert.GetTimeZoneInfo("Central European Standard Time");
             var utcInTimeZone = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, timeZone);
             var startOfCurrentMonth = new DateTime(utcInTimeZone.Year, utcInTimeZone.Month, 1);
             foreach (var diet in dietHistory.items)

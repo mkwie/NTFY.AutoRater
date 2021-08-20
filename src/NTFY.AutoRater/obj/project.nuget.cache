@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XauZtx8ONgc7/Vrp3wwC/obm9hT6hkc8oJRfHpxK+YqAL28+4WKBdmhID34JuOh/u9INB5+uYpxzmoDdEz3qTQ==",
+  "dgSpecHash": "09xyMaTazHEPAYfvr8sWhk3eEhFHGJCg9LPqlxTNZqp3GTALqA+St831zeqKC8/Bg+EUru9coDzx0lGghtDf2A==",
   "success": true,
   "projectFilePath": "C:\\workspace\\AutoRater\\src\\NTFY.AutoRater\\NTFY.AutoRater.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ptoklap\\.nuget\\packages\\timezoneconverter\\3.5.0\\timezoneconverter.3.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

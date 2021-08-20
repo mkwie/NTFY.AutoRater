@@ -1,11 +1,51 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "TimeZoneConverter/3.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/TimeZoneConverter.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/TimeZoneConverter.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TimeZoneConverter/3.5.0": {
+      "sha512": "ziTcQ5rVxRdtWJEnEqhKBukZGuUQregbf5G7QRrFKj6CwBLss5tSz0dlSHy9gzi5M5ES0PNQ0K2ACP/0XVT5Ow==",
+      "type": "package",
+      "path": "timezoneconverter/3.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/TimeZoneConverter.dll",
+        "lib/net35/TimeZoneConverter.xml",
+        "lib/net40/TimeZoneConverter.dll",
+        "lib/net40/TimeZoneConverter.xml",
+        "lib/net45/TimeZoneConverter.dll",
+        "lib/net45/TimeZoneConverter.xml",
+        "lib/net461/TimeZoneConverter.dll",
+        "lib/net461/TimeZoneConverter.xml",
+        "lib/net471/TimeZoneConverter.dll",
+        "lib/net471/TimeZoneConverter.xml",
+        "lib/netstandard1.1/TimeZoneConverter.dll",
+        "lib/netstandard1.1/TimeZoneConverter.xml",
+        "lib/netstandard1.3/TimeZoneConverter.dll",
+        "lib/netstandard1.3/TimeZoneConverter.xml",
+        "lib/netstandard2.0/TimeZoneConverter.dll",
+        "lib/netstandard2.0/TimeZoneConverter.xml",
+        "timezoneconverter.3.5.0.nupkg.sha512",
+        "timezoneconverter.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "TimeZoneConverter >= 3.5.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ptoklap\\.nuget\\packages\\": {},
@@ -49,6 +89,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "TimeZoneConverter": {
+            "target": "Package",
+            "version": "[3.5.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
