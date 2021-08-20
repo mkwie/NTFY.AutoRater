@@ -1,0 +1,15 @@
+C:\workspace\AutoRater\src\NTFY.AutoRater\bin\Release\net5.0\NTFY.AutoRater.exe
+C:\workspace\AutoRater\src\NTFY.AutoRater\bin\Release\net5.0\NTFY.AutoRater.deps.json
+C:\workspace\AutoRater\src\NTFY.AutoRater\bin\Release\net5.0\NTFY.AutoRater.runtimeconfig.json
+C:\workspace\AutoRater\src\NTFY.AutoRater\bin\Release\net5.0\NTFY.AutoRater.runtimeconfig.dev.json
+C:\workspace\AutoRater\src\NTFY.AutoRater\bin\Release\net5.0\NTFY.AutoRater.dll
+C:\workspace\AutoRater\src\NTFY.AutoRater\bin\Release\net5.0\ref\NTFY.AutoRater.dll
+C:\workspace\AutoRater\src\NTFY.AutoRater\bin\Release\net5.0\NTFY.AutoRater.pdb
+C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\NTFY.AutoRater.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\NTFY.AutoRater.AssemblyInfoInputs.cache
+C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\NTFY.AutoRater.AssemblyInfo.cs
+C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\NTFY.AutoRater.csproj.CoreCompileInputs.cache
+C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\NTFY.AutoRater.dll
+C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\ref\NTFY.AutoRater.dll
+C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\NTFY.AutoRater.pdb
+C:\workspace\AutoRater\src\NTFY.AutoRater\obj\Release\net5.0\NTFY.AutoRater.genruntimeconfig.cache

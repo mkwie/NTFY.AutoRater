@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NTFY.AutoRater": {
+      "commandName": "Project",
+      "commandLineArgs": "\"VAn7cQ6qkpEoroCffvqyLGcyE\" \"11_matkwiecinski@gmail.com\""
+    }
+  }
+}
